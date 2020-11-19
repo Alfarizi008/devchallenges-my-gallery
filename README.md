@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://">
+    <a href="https://fagarigis.my.id/devchallenges-my-gallery/">
       Demo
     </a>
     <span> | </span>
