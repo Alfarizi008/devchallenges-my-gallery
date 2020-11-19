@@ -1,0 +1,67 @@
+.container-ku{
+    background-color: white;
+}
+
+.name-hero{
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 29px;
+    color: #4E5150;
+}
+
+.alamat-hero{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A9A9A9;
+}
+
+.box{
+    margin: 30px;
+    width: 100px;
+    background: #E5E5E5 !important;
+    color: #4E5150 !important;
+    border-radius: 12px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bolder;
+}
+
+.box2{
+    color: #bdbdbd;
+    font-size: 14px;
+    
+}
+
+.box-space{
+    margin: 1%;
+}
+
+.mt-n1 {
+    margin-top: -1.25rem !important;
+}
+
+.mt-n2 {
+    margin-top: -3rem !important;
+}
+
+.isi{
+    border-radius: 20px !important;
+}
+
+
+
+.pp{
+    border-radius: 16px;
+}
+
+.footer-ku{
+    font-family: 'Montserrat';
+    font-size: 14px;
+}
